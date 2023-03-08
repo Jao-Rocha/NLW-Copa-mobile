@@ -25,7 +25,7 @@ Aqui é a lista de bolões que voçê participa.
 
 Ao clicar em algum bolão, consegue-se obter mais detalhes e visualizar seu palpite.
 
-![Layout 7(https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-pool.png)
+![Layout 7](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-pool.png)
 
 
 
