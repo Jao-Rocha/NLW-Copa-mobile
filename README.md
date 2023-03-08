@@ -21,9 +21,7 @@ Está é a tela de login do usuário.
 
 Está é a tela de criação do bolão. Voçê consegue navegar entre seu bolões e criar um novo.
 
-![Layout 4](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-initalScreen.png)
-
-![Layout 5](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-createPool.png)
+![Layout 4](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-initalScreen.png) ![Layout 5](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-createPool.png)
 
 Aqui é a lista de bolões que voçê participa.
 
