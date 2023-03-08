@@ -11,18 +11,18 @@ Está é a tela enquanto o projeto é carregado.
 ![Layout 1](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-loading.png) 
 
 Está é a tela de login do usuário.
-![Layout 2]ttps://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-login.png) 
+![Layout 2](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-login.png) 
 
 Está é a tela de login do usuário.
-![Layout 3]https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-login.png) 
+![Layout 3](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-login.png) 
 
 Está é a tela de criação do bolão. Voçê consegue navegar entre seu bolões e criar um novo.
-![Layout 4]https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-initalScreen.png)
+![Layout 4](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-initalScreen.png)
 
-![Layout 5]https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-createPool.png)
+![Layout 5](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-createPool.png)
 
 Aqui é a lista de bolões que voçê participa.
-![Layout 6]https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-poolList.png)
+![Layout 6](https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-poolList.png)
 
 Ao clicar em algum bolão, consegue-se obter mais detalhes e visualizar seu palpite
 ![Layout 7(https://github.com/Jao-Rocha/NLW-Copa-mobile/blob/main/assets-to-readme/mobile-pool.png)
