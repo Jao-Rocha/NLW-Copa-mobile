@@ -33,7 +33,7 @@ Ao clicar em algum bolão, consegue-se obter mais detalhes e visualizar seu palp
 # Como iniciar o projeto
 
  Primeiro faça o cloonne do projeto para o seu computador, use o "npm intall" para instalar todas as bibliotecas usadas no projeto. Tenha o Android Studio instalado no seu computador. Depois é usar o comando "npm expo star" ,ao inicar o expo pressione a tecla "a", para abrir o aplicativo.
- É importante deixar o servidor rodando para que o app funcione como o experado , use "npm run dev" para inicar o servidor
+ É importante deixar o servidor rodando para que o app funcione como o experado , use "npm run dev" para inicar o servidor.
 
 
 # Tecnologias utilizadas
