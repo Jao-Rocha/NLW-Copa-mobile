@@ -1,4 +1,4 @@
-# nlw-copa-web
+# nlw-copa-Mobile
 Versão mobile do NLW Copa.
 
 # Sobre o projeto
